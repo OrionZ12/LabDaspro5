@@ -1,0 +1,21 @@
+Kartu Hasil Studi
+==================================
+
+Nama : SULUNG ISMANARA MUJIANTO
+NIM  : 231401060
+
+|=======================================================|
+|No |Matkul                                       |Nilai|
+|=======================================================|
+|1. |Fisika Matematika II                         |C    |
+|2. |Elektronika Dasar                            |A    |
+|3. |Praktikum Elektronika Dasar                  |A    |
+|4. |Fisika Modern                                |C+   |
+|5. |Algoritma dan Pemrograman                    |A    |
+|6. |Fisika Eksperimen I                          |A    |
+|7. |Geofisika Umum                               |B+   |
+|8. |Praktikum Algoritma dan Pemrograman          |A    |
+|=======================================================|
+
+Total SKS   : 21
+IP Semester : 3.33
